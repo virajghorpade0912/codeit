@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virajghorpade0912/codeit.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/virajghorpade0912/codeit.git/static/js/main.530b610a.chunk.js",
+    "main.js.map": "/virajghorpade0912/codeit.git/static/js/main.530b610a.chunk.js.map",
+    "runtime-main.js": "/virajghorpade0912/codeit.git/static/js/runtime-main.2e76dee4.js",
+    "runtime-main.js.map": "/virajghorpade0912/codeit.git/static/js/runtime-main.2e76dee4.js.map",
+    "static/js/2.7aa3d51f.chunk.js": "/virajghorpade0912/codeit.git/static/js/2.7aa3d51f.chunk.js",
+    "static/js/2.7aa3d51f.chunk.js.map": "/virajghorpade0912/codeit.git/static/js/2.7aa3d51f.chunk.js.map",
+    "index.html": "/virajghorpade0912/codeit.git/index.html",
+    "precache-manifest.776dc0a7045ddd46c711df6958943a7c.js": "/virajghorpade0912/codeit.git/precache-manifest.776dc0a7045ddd46c711df6958943a7c.js",
+    "service-worker.js": "/virajghorpade0912/codeit.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/virajghorpade0912/codeit.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7aa3d51f.chunk.js.LICENSE.txt": "/virajghorpade0912/codeit.git/static/js/2.7aa3d51f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e76dee4.js",
+    "static/js/2.7aa3d51f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.530b610a.chunk.js"
+  ]
+}
